@@ -1,0 +1,22 @@
+{
+  "name": "number5",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tanya <tanyshka_zp@ukr.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MiahkoholovaTania/page-first",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "3.3.7",
+    "font-awesome": "fontawesome#~4.7.0"
+  }
+}
